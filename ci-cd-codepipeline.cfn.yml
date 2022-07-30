@@ -9,7 +9,7 @@ Parameters:
     Description: TODO - The name of the EKS cluster created
     Default: eksctl-demo
     MinLength: 1
-    MaxLength: 100
+    MaxLength: 105
     ConstraintDescription: You must enter the EKS cluster name
 
   GitSourceRepo:
